@@ -77,8 +77,8 @@
     </section><section id="produtos">
   <h2>Nossos Produtos</h2>
   <div class="produto">
-    <h3>Produto Exemplo</h3>
-    <p>R$ 99,00</p>
+    <h3>Correntepersonalizada</h3>
+    <p>R$ 79,90</p>
     <button onclick="adicionarAoCarrinho('Produto Exemplo', 99)">Comprar</button>
   </div>
   <div class="produto">
